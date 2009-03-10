@@ -41,6 +41,7 @@ TODO: {
 
 }
 
+module_boilerplate_ok('lib/Cnutt/Feed.pm');
 module_boilerplate_ok('lib/Cnutt/Feed/Mailbox.pm');
 module_boilerplate_ok('lib/Cnutt/Feed/Actions/Fetch.pm');
 module_boilerplate_ok('lib/Cnutt/Feed/Actions/Get.pm');

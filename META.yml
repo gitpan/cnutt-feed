@@ -6,7 +6,7 @@ build_requires:
   Test::Dependencies: 0
   Test::More: 0.42
 distribution_type: module
-generated_by: 'Module::Install version 0.77'
+generated_by: 'Module::Install version 0.79'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -14,9 +14,9 @@ meta-spec:
 name: cnutt-feed
 no_index:
   directory:
-    - test
     - inc
     - t
+    - test
 requires:
   Config::Tiny: 0
   Email::Address: 0
@@ -32,4 +32,4 @@ requires:
   XML::Feed: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 1.0
+version: 1.1

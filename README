@@ -3,10 +3,9 @@ Cnutt-feed
 Description
 ===========
 
-This software is a part of the Cnutt project which aims to provide a set
+This software is part of the Cnutt project which aims to provide a set
 of tools for all mail related operations. Actually, this is only the
-first release of this project and it's not like to change in a near
-future.
+first release of this project and it's not likely to change soon.
 
 Cnutt-feed is (another) RSS/Atom feed to mailbox converter. Given a feed,
 it is able to present it as email messages.
@@ -17,7 +16,7 @@ on an imap server (like feed2imap). It is able to directly delivers the
 messages to all the mailboxes supported by the perl module
 Email::LocalDelivery.
 
-Moreover, it uses an human readable (and writable) configuration file
+Moreover, it uses a human readable (and writable) configuration file
 and stores all relevant information about the feed in the mailbox itself
 (no need for a database or a separated cache file).
 

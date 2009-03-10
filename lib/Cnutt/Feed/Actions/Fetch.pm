@@ -49,6 +49,7 @@ sub fetch_one {
     # code
     my $url = $conf->{$name}->{url};
     my $mb  = $conf->{$name}->{mailbox};
+	$mb =~ s/^~/$ENV{HOME}/;
 
     foreach (keys %{$conf->{$name}}) {
         if (!defined($options{$_})) {

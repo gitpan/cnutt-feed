@@ -1,10 +1,15 @@
 Revision history for Cnutt-feed
 
+1.1     Tue Mar 10 15:20:00 CEST 2009
+        Added module Cnutt::Feed, the main script is now only a wrapper
+        Fewer English mistakes
+        Allow ~ in mailboxes paths
+
 1.0     Sun Nov 23 14:31:50 CEST 2008
         Name changed to Cnutt-feed
         The daemon mode disappear, use the crontab
-        Beautified code, less warnings
-        Good behabior in strange cases
+        Beautified code, fewer warnings
+        Good behavior in strange cases
 
 0.9     Mon Mar 10 19:01:31 CEST 2008
         Fully working
