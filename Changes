@@ -1,5 +1,12 @@
 Revision history for Cnutt-feed
 
+1.2i    Tue Jun 15 13:48:00 CEST 2009
+		Updated tests and MANIFEST
+
+1.2     Tue Jun 15 13:30:00 CEST 2009
+        Use Module::Build now.
+		Removed Module::Install support.
+
 1.1     Tue Mar 10 15:20:00 CEST 2009
         Added module Cnutt::Feed, the main script is now only a wrapper
         Fewer English mistakes

@@ -2,7 +2,7 @@
 
 use strict;
 use warnings;
-use Test::More tests => 6;
+use Test::More tests => 7;
 
 sub not_in_file_ok {
     my ($filename, %regex) = @_;

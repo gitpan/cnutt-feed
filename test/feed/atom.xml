@@ -1,0 +1,1488 @@
+<feed version="0.3"
+      xmlns="http://purl.org/atom/ns#"
+      xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <entry>
+    <id>tag:www.gandi.net:80,2007-07-17:%2Fnews%2Fview%2F136</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Gandi aimerait attirer votre attention sur une pratique de plus en plus courante de la part de sociétés prestataires &quot;d'administration et de renouvellement&quot; de noms de domaine (comme Domain Registry of America, DROA), consistant à contacter nos clients (ainsi que ceux d'autres Registrar) pour les prévenir que leur(s) domaine(s) arrive(nt) à expiration et qu'il est nécessaire de les renouveler pour ne pas les perdre.
+&lt;br /&gt;&lt;br /&gt;
+Dans l'email de ces sociétés se trouve un lien permettant de &quot;renouveler&quot; le domaine en question. Cependant, lorsque l'utilisateur clique sur ce lien, son domaine est &lt;strong&gt;en réalité transféré vers cette société &lt;/strong&gt;(et donc change de Registrar dans la majorité des cas) puis renouvelé.
+&lt;br /&gt;&lt;br /&gt;
+Nous vous rappelons que Gandi envoie automatiquement des emails de rappel concernant l'expiration de vos domaines, à J-60, J-30 et J-15 notamment, ce qui vous laisse amplement le temps de renouveler vos domaines (nous en profitons pour vous rappeler l'importance de configurer une adresse email valide dans votre compte Gandi) sans risque de le(s) perdre. Sachez aussi qu'il est possible de renouveler vos domaines à partir de n'importe quel compte en cas d'urgence. Voici le lien vers notre tutorial sur le renouvellement de domaine : &lt;a href=&quot;http://www.gandi.net/faq/tutorial/601/renouveler_un_nom_de_domaine/&quot;&gt;http://www.gandi.net/faq/tutorial/601/renouveler_un_nom_de_domaine/&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;
+À tout moment, vous pouvez vérifier la validité de votre domaine grâce à une simple requête Whois : &lt;a href=&quot;http://www.gandi.net/whois&quot;&gt;http://www.gandi.net/whois&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;
+Vous y trouverez toutes les informations utiles, et surtout dans le cas présent la date d'expiration du domaine. Vérifiez également, dans le cas d'un domaine avec une extension de type &quot;.com&quot;, &quot;.net&quot;, &quot;.info&quot;, &quot;.biz&quot;, ou &quot;.us&quot;, que votre statut &quot;Client Transfer Prohibited&quot; est activé. Il s'agit, pour rappel, d'une protection anti-transfert configurée au Registre, qui empêchera tout transfert, qu'il soit mal intentionné ou initié par erreur/manque d'information.
+&lt;br /&gt;&lt;br /&gt;
+À la moindre hésitation, au moindre doute, notre support clientèle est là pour vous guider et vous informer : support-fr@support.gandi.net
+&lt;br /&gt;&lt;br /&gt;</content>
+    <issued>2007-07-17 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/136"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-07-17 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Renouvellement et abus de confiance</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-07-10:%2Fnews%2Fview%2F133</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Afin de nous rechauffer un peu, enfin au moins l'esprit, nous venons d'activer l'extension réunionnaise (.RE) Le registre en charge est, comme le .FR, géré par l'Afnic. Il n'y a pas eu d'ouverture aux particuliers, &lt;ins&gt;l'enregistrement se limite donc aux sociétés et personnes morales ou détentrices de marque sur le territoire réunionnais&lt;/ins&gt;. Pour plus d'infos : &lt;a href=https://www.gandi.net/domaine/re/info&gt;https://www.gandi.net/domaine/re/info&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;
+Pour ceux qui ont déjà chaud (il doit bien y en avoir), nos T-shirts ne sont plus réservés à la France Métropolitaine. Nous livrons maintenant dans les pays suivants : Belgique, Luxembourg, Suisse, Monaco, Allemagne, Italie, Angleterre, Espagne. 
+&lt;br /&gt;&lt;br /&gt;
+&lt;a href=http://www.lebardegandi.fr&gt;Plus d'info sur le bar&lt;/a&gt;</content>
+    <issued>2007-07-10 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/133"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-07-10 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 28</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-06-28:%2Fnews%2Fview%2F130</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">13h30 :&lt;br/&gt;
+Nos serveurs de redirection ont un problème de charge temporaire, nos équipes travaillent pour corriger le problème rapidement &lt;br/&gt;
+&lt;br/&gt;
+15h30 : &lt;br/&gt;
+Serveurs de nouveau opérationnels, nos excuses à ceux d'entre vous qui ont été impactés.
+&lt;br/&gt;
+16h30 : &lt;br/&gt;
+Nous sommes de nouveau sous attaque DDOS de manière alternative depuis 16h02. Nous travaillons actuellement pour réactiver le service le plus rapidement possible. &lt;br/&gt;
+18h00: &lt;br/&gt;Le DDOS over DC++ semble fini, mais nous ne sommes pas à l'abris d'une nouvelle vague, nous sommes en train de travailler sur une parade.
+20h30: pas de nouvelles attaques depuis 2h30, nous avons mis en place une parade pour la prochaine fois. Il ne &quot;devrait&quot; pas y avoir de nouveaux soucis.</content>
+    <issued>2007-06-28 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/130"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-06-28 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Serveurs de redirection web en panne</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-06-18:%2Fnews%2Fview%2F128</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Il est jeune et déjà grand, doté de beaucoup de possibilités mais encore un peu timide, il ne demande qu'à être utile !&lt;br&gt;
+
+Voici donc GandiMail, une solution mail gratuite et intégrée avec chaque nom de domaine, dont beaucoup ont déjà parlé. Pour ceux qui ne le connaissent pas encore, voici ses mensurations :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;une boîte mail avec 1Go d'espace de stockage mails&lt;/li&gt;
+&lt;li&gt;1000 redirections et alias mail illimités&lt;/li&gt;
+&lt;li&gt;antispam et antivirus&lt;/li&gt;
+&lt;li&gt;un WebMail Gandi pour accéder à vos messages de n'importe où&lt;/li&gt;
+&lt;li&gt;un compte POP et IMAP pour pouvoir passer par vos logiciels de messagerie préférés&lt;/li&gt;
+&lt;/ul&gt;
+
+      &lt;p class=&quot;read-it&quot;&gt;&lt;a href=&quot;http://www.lebardegandi.net/post/2007/06/18/Ce-grand-Beta-de-GandiMail&quot; title=&quot;Lire la suite Ce grand Bêta de GandiMail&quot;&gt;Lire la suite&lt;/a&gt;...&lt;/p&gt;</content>
+    <issued>2007-06-18 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/128"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-06-18 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">&lt;b&gt;Gandi Mail version Beta!&lt;/b&gt;</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-06-15:%2Fnews%2Fview%2F127</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Bonjour,
+
+Si vous souhaitez nous aider à finaliser les tests de notre prochain service, nous vous donnons la possibilité d'activer Gandi Mail sur votre domaine.
+&lt;br /&gt;&lt;br /&gt;
+La procédure pour activer le service est disponible sur notre forum à l'adresse
+&lt;a href='http://groups.gandi.net/topic/gandi.fr.mail/5503'&gt;http://groups.gandi.net/topic/gandi.fr.mail/5503&lt;/a&gt;
+
+</content>
+    <issued>2007-06-15 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/127"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-06-15 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Testez Gandi Mail !</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-06-07:%2Fnews%2Fview%2F125</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Le service clientèle Gandi sera exceptionnelement fermé vendredi 8 juin de 10h à 16h. N'hésitez pas à envoyer tout de même vos demandes par mail sur la période, les plus prioritaires seront traitées après 16h et les autres le seront le samedi. &lt;br /&gt;&lt;br /&gt;Nous vous prions de nous excuser pour cette perturbation.</content>
+    <issued>2007-06-07 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/125"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-06-07 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Fermeture exceptionnelle du service support vendredi de 10h à 16h</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-06-06:%2Fnews%2Fview%2F123</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;
+Bientôt les grandes vacances, bientôt l'arrivée à échéance des premiers .fr particuliers également.&lt;br/&gt; Nous nous sommes aperçu, chez Gandi, qu'un nombre relativement important de personnes laissait passer la date de renouvellement de leurs domaines par oubli. C'est bien dommage de devoir payer une restauration (quand c'est possible), plutôt qu'un simple abonnement, non ?&lt;br/&gt;
+&lt;br/&gt;
+Nous avons ouvert depuis un certain temps le compte prépayé aux revendeurs, un &quot;must-have&quot; pour les plus actifs d'entre eux. Ce prépayé leur offre la possibilité d'activer l'auto-renouvellement sur les domaines qu'ils souhaitent, et du coup, plus de blagues avec les dates d'expiration :) C'est maintenant le cas pour tout les clients Gandi.&lt;br/&gt;
+&lt;br/&gt;
+Qu'est ce qu'un compte prépayé ? C'est tout simplement une réserve d'argent que vous déposez chez Gandi et qui servira à effectuer n'importe quelle opération financière chez Gandi : achat, transfert, changement de propriétaire... Et bien sûr : Renouvellement ! Le compte prépayé est également le compte sur lequel Gandi vous remboursera de l'argent en cas de commande invalide ou autre. J'ajoute que le solde du compte prépayé est récupérable à n'importe quel moment et que vous pouvez l'alimenter par CB, chèque (compensable en France) ou virement (versement minimum de 60€ pour les chèques et virements).&lt;br/&gt;
+&lt;br/&gt;
+L'activation de l'auto-renouvellement se fait très facilement à partir de votre tableau de bord, à l'aide de l'icône autorenew (deux flèches grises se tournant autour). La désactivation est tout aussi simple, bien sûr :)&lt;br/&gt;
+&lt;br/&gt;
+Pour les plus craintifs, ne vous inquiétez pas, le renouvellement automatique se fait 15 jours avant la date d'expiration au Registre et vous serez avertis par mail de toute façon. La seule chose que vous avez à gérer, c'est l'approvisionnement de votre compte prépayé ;)&lt;br/&gt;</content>
+    <issued>2007-06-06 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/123"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-06-06 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Prépayé et auto-renouvellement pour tous !</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-06-05:%2Fnews%2Fview%2F122</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Le coup de main fraternel de Gandi, pour le lancement Moonfruit.fr,  logiciel de création et d’administration de site en ligne pour les internautes francophones.&lt;br/&gt;
+Un nouvel outil puissant dédié à tous ceux (amateurs, entreprises de toutes tailles, web agencies, revendeurs…) qui veulent faire eux-mêmes un site web de grande qualité, facilement et rapidement…&lt;br/&gt;
+&lt;br/&gt;
+&lt;i&gt;&lt;a href='http://www.lebardegandi.net/'&gt;Plus d’info sur le Bar&lt;/a&gt;&lt;/i&gt;
+</content>
+    <issued>2007-06-05 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/122"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-06-05 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Lancement de Moonfruit.fr</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-05-31:%2Fnews%2Fview%2F120</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">On fait en sorte que celà ne prenne pas trop longtemps. Ca devrait être réparé vers 14h45 aujourd'hui.
+&lt;br /&gt;&lt;br /&gt;
+14h52: c'est revenu (avec 7 mins de retard)
+&lt;br /&gt;&lt;br /&gt;
+15h10: c'est re-cassé, plus de news dans 5-10 mins
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;15h17: c'est revenu&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+</content>
+    <issued>2007-05-31 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/120"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-05-31 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Gandi Blog HS</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-05-28:%2Fnews%2Fview%2F118</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Il semblerait que le registre en charge du .BE soit en panne aujourd'hui.
+
+Nous vous donnerons plus de nouvelles quand nous en aurons de la part de DNS.BE :)
+
+13:30: problème réglé</content>
+    <issued>2007-05-28 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/118"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-05-28 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">.BE en maintenance</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-05-24:%2Fnews%2Fview%2F116</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi du 03/04 au 24/04 &lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+&lt;li&gt;Changement de propriétaire en ligne pour les domaines en .BE&lt;/li&gt;
+&lt;li&gt;Mise en place d'un système de relance par mail des commandes bloquées&lt;/li&gt;
+&lt;li&gt;Stockage de la valeur du pager (nb de domaines par page) dans vos préférences&lt;/li&gt;
+&lt;li&gt;Classification des domaines par date d'expiration (les plus proches en premier)&lt;/li&gt;
+&lt;li&gt;Possibilité de renouveler jusqu'à 500 domaines en une seule opération&lt;/li&gt;
+&lt;/ul&gt;&lt;br&gt;
+Le support nous remonte que beaucoup d'entre vous ont des commandes en cours bloquées, mais que vous vous en apercevez relativement tard.
+Sachant que la plupart de ces opérations sont facilement relançables, nous avons mis en place un système qui va gentiment vous prévenir de cet état de fait. &lt;br/&gt;
+Pour une grande partie des commandes, le blocage concerne les transferts entrant, et plus particulièrement cette môdit' (à prononcer en q'becois) clé d'autorisation, ou AUTHCODE pour les intimes :)&lt;br/&gt;
+Celle-ci, je le rappelle est obligatoire pour les gTLDs (.COM, .NET, .ORG etc...) et doit être obligatoirement fournie au propriétaire du domaine par le registrar perdant celui-ci. Nous avons un bout de FAQ détaillant très bien les cas et les emplacements pour ces codes, à visiter &lt;a href='http://www.gandi.net/faq/view_question/fr/la_cle_autorisation/'&gt;ici&lt;/a&gt;. &lt;br/&gt;
+Dans le classement des commandes bloquées, on trouve également en bonne position les données foutives, comme disent nos amis belges. Sauf que dans le cas des .FR, cela implique juste la non création du domaine et une commande bloquée. Pensez donc à vérifier les informations que vous entrez. Je pense particulièrement : &lt;ul&gt;
+&lt;li&gt; au numéro de téléphone mal formaté&lt;/li&gt;
+&lt;li&gt; à la date de naissance (vous êtes beaucoup à être né en 2053 ;))&lt;/li&gt;
+&lt;li&gt; au pays de naissance non renseigné (si vous entrez le code département 99, correspondant à l'étranger, n'oubliez pas de mettre le pays de naissance)&lt;/li&gt;
+&lt;li&gt; aux numéros dans le champ &quot;ville&quot; (l'AFNIC refuse le format de ville type &quot;Paris Cedex 12&quot;)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <issued>2007-05-24 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/116"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-05-24 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 17</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-05-24:%2Fnews%2Fview%2F117</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi du 25/04 au 24/05 &lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+&lt;li&gt;Amélioration de l'interface de changement de DNS&lt;/li&gt;
+&lt;li&gt;Noms de domaines accentués (IDN) affichés également en ASCII sur le tableau de commande&lt;/li&gt;
+&lt;li&gt;Des mails de relances sont désormais envoyés sur les commandes en attente (chèque, prépayé, erreur...)&lt;/li&gt;
+&lt;li&gt;Changements importants dans l'API-XML :&lt;/li&gt;
+    &lt;ul&gt;
+        &lt;li&gt;changé: operation_details renvoie maintenant le nom de domaine et le handle contact dans le champ 'param'&lt;/li&gt;
+        &lt;li&gt;changé: operation_details renvoie maintenant un champ 'param_type' dans 'param', décrivant l'objet (objet 'domain' ou 'contact')&lt;/li&gt;
+        &lt;li&gt;corrigé: operation_details renvoie désormais un encodage iso8601 correct pour les champs 'date_create' et'date_update'&lt;/li&gt;
+        &lt;li&gt;corrigé: plusieurs bugs concernant les enregistrements de 3ème niveau (.asso.fr, first.last.name etc.)&lt;/li&gt;
+        &lt;li&gt;corrigé: plusieurs bugs concernant les noms accentués (IDN)&lt;/li&gt;
+        &lt;li&gt;corrigé: bugs lorsqu'un domaine avait 0 ou 1 serveurs de noms&lt;/li&gt;
+        &lt;li&gt;corrigé: domain_ns_set ne fonctionnait pas avec les .FR et les serveurs de noms non déclarés&lt;/li&gt;
+        &lt;li&gt;corrigé: domain_ns_set ne fonctionnait pas avec les .BE et .EU&lt;/li&gt;
+        &lt;li&gt;corrigé: contact_update ne fonctionnait pas avec certains registres&lt;/li&gt;
+        &lt;li&gt;corrigé: contact_info ne renvoyait pas le nom des organisations&lt;/li&gt;
+        &lt;li&gt;amélioration: la validation vérifie désormais si une redirection web existe déjà avant de la créer&lt;/li&gt;
+        &lt;li&gt;amélioration: nouvelle méthode pour tld_list, qui liste les TLDs supportés&lt;/li&gt;
+        &lt;li&gt;amélioration: les transferts internes sont désormais possibles&lt;/li&gt;
+        &lt;li&gt;amélioration: operation_details renvoie désormais un champ 'comment', contenant le message d'erreur sur une opération échouée.&lt;/li&gt;
+        &lt;li&gt;amélioration: support des requêtes 'multicall' (opérations en bulk)&lt;/li&gt;
+        &lt;li&gt;amélioration: gros progrès sur la database/réseau (vitesse grandement accrue)... &lt;/li&gt;
+     &lt;/ul&gt;
+&lt;/ul&gt;&lt;br&gt;
+Voici un mois qu'on ne vous avait pas donné de nouvelles du front. Les améliorations principales visibles par vous sont surtout en rapport avec l'API-XML qui a grandement gagné en stabilité et rapidité. Nous avons également beaucoup travaillé sur la partie BackEnd de Gandi pour préparer la sortie de GandiMail (bientôt) ainsi que notre Alpha Hosting.&lt;br/&gt; &lt;br/&gt;
+Notre équipe technique et support ont également gagné de nouveaux collaborateurs, ce qui a été plus long que prévu. Recruter en fonction de nos critères n'a pas été chose facile, comme vous avez sûrement pu le suivre au fil de ce blog, mais nous avons bouclé l'équipe (du moins, nous l'espérons) et avons donc les moyens d'avancer beaucoup plus vite maintenant !&lt;br/&gt;</content>
+    <issued>2007-05-24 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/117"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-05-24 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 21</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-05-11:%2Fnews%2Fview%2F114</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Suite à des maintenances prévus au niveau du registre, les opérations sur les noms de domaine en .info et .org seront suspendues samedi 12 mai entre 17h et 21h et les opérations sur les noms de domaine en .biz et .us samedi 12 mai entre 14h et 15h30.
+Les opérations seront enregistrées sur Gandi et effectuées à la fin des périodes de maintenance.
+
+</content>
+    <issued>2007-05-11 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/114"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-05-11 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Maintenance sur les .info, .biz, .org et .us</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-04-25:%2Fnews%2Fview%2F111</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Enfin, on essaye de recruter !
+&lt;br/&gt;
+Pour renforcer nos équipes de production, nous sommes toujours à la recherche :
+&lt;ul&gt;&lt;li&gt;de développeurs connaissant Perl et/ou Python&lt;/li&gt;
+&lt;li&gt;de responsables clientèles bilingues ou trilingues&lt;/li&gt;
+&lt;li&gt;de techniciens réseaux Linux &lt;/li&gt;
+&lt;li&gt;de responsables clientèles techniques ayant eu une expérience dans le monde du nom de domaine ou de l'hébergement web&lt;/li&gt;
+&lt;/ul&gt;
+
+N'hésitez pas à nous envoyer vos CVs à emploi@gandi.net</content>
+    <issued>2007-04-25 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/111"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-04-25 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Gandi recrute !</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-04-12:%2Fnews%2Fview%2F108</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Non non, après les &lt;a href=/tshirts&gt;T-shirts&lt;/a&gt;, nous ne nous sommes pas mis à vendre des livres, ce sont juste nos domaines qui sont achetables par nos amis anglais directement en Livres Sterling.
+&lt;br /&gt;
+&lt;a href='http://www.lebardegandi.net'&gt;Plus d'infos sur le bar&lt;/a&gt;</content>
+    <issued>2007-04-12 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/108"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-04-12 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Gandi en livres !</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-03-28:%2Fnews%2Fview%2F102</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Bonjour, ou pas... &lt;br/&gt;Enfin, on commence cette journée avec une table corrompue et une estimation d'un retour à la normale d'ici une heure ou deux.&lt;br/&gt;On vous tient bien sûr au courant, comme chaque fois. Nous vous prions de nous excuser pour la gêne éventuellement occasionnée par cet incident.&lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;EDIT :&lt;/b&gt; incident clos à 11:16, merci de votre patience :)</content>
+    <issued>2007-03-28 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/102"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-03-28 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Problèmes de base de données</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-03-14:%2Fnews%2Fview%2F100</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi du 07/02 au 13/03 &lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+&lt;li&gt;Transferts en ligne des .FR pour les particuliers&lt;/li&gt;
+&lt;li&gt;Gestion des IDN pour les transferts&lt;/li&gt;
+&lt;li&gt;Restauration en ligne des .eu&lt;/li&gt;
+&lt;li&gt;Amélioration de la gestion des commande en cours pour nos revendeurs utilisant un compte prépayé&lt;/li&gt;
+&lt;li&gt;Nouveau design de l'identification et arrêt de l'auto-complétion&lt;/li&gt;
+&lt;li&gt;Correction de l'encodage des attributs dans les URLs de Redirection&lt;/li&gt;
+&lt;li&gt;Ajout d'une catégorie &quot;&lt;a href=&quot;https://www.gandi.net/news/?category=21&quot;&gt;Alerte&lt;/a&gt;&quot; dans les News&lt;/li&gt;
+&lt;li&gt;Liens contextuels des tutoriaux dans les résultats de recherche sur la FAQ&lt;/li&gt;
+&lt;li&gt;Possibilité pour nos revendeurs de choisir un propriétaire unique sur une même session de commande&lt;/li&gt;
+&lt;li&gt;Ajout d'un filtre par domaine sur les commandes en cours&lt;/li&gt;
+&lt;li&gt;Ajout d'un pager sur la recherche de domaine &lt;/li&gt;
+&lt;/ul&gt;&lt;br/&gt;&lt;br/&gt;
+Que d'aventures depuis le dernier &quot;Au Menu&quot;...&lt;br/&gt; Vous constaterez pas mal de corrections et d'améliorations dans les changements, et tout cela pendant que l'équipe se dévoue corps et âmes à notre GandiMail.&lt;br/&gt;Tiens, puisque j'en parle, GandiMail, notre solution Email gratuite qui sera intégrée pour chaque domaine (à l'instar du Blog), est toujours en cours de développement et la forme se précise. &lt;br/&gt;Une réponse de normand me direz-vous ? Tant mieux, je suis briard et j'adore voyager :)</content>
+    <issued>2007-03-14 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/100"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-03-14 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu -  semaine 11</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-03-08:%2Fnews%2Fview%2F97</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Un problème majeur a affecté nos services de redirection et les connexions à certains Registres (.COM, .BE, .EU, .NET).&lt;br/&gt;Ce problème a commencé vers 8h00 ce matin et est désormais résolu. Nos équipes sont en train de chercher à identifier le souci afin qu’il ne se reproduise pas.&lt;br/&gt;Nous vous prions de nous excuser pour la gêne éventuellement occasionnée et nous vous tenons informés.&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Maj&lt;/b&gt; (10:17): les redirections web refonctionnent depuis 9h47 ce matin...si ca ne fonctionne toujours pas pour vous, c'est probablement le cache de votre navigateur</content>
+    <issued>2007-03-08 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/97"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-03-08 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Problème technique</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-02-06:%2Fnews%2Fview%2F95</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi du 01/02 au 06/02 &lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+&lt;li&gt;Mise en production de GandiBlog V1.0&lt;/li&gt;
+&lt;li&gt;Mise en production des Forums/Newsgroups Gandi&lt;/li&gt;
+&lt;li&gt;Modification de la &lt;a href='https://www.gandi.net/domaine/blog/'&gt;page de présentation&lt;/a&gt; des Blogs&lt;/li&gt;
+&lt;li&gt;Plusieurs corrections/améliorations sur l'interface des factures/remboursements&lt;/li&gt;
+&lt;li&gt;Mise à jour des formulaires papiers (changement d'adresse etc..) et des &lt;a href='https://www.gandi.net/static/contracts/fr/g0/pdf/mentions_legales_FR_2.1.pdf'&gt;mentions légales&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mise en production des &lt;a href='https://www.gandi.net/tshirts/'&gt;TShirts Gandi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ajout d'une zone par défaut et des modifications en bulk (Gestion des DNS)&lt;/li&gt;
+&lt;/ul&gt;&lt;br&gt;
+Enfin, les GandiBlogs en version 1.0 ! Dans les faits, qu'est ce que ça change ? Plus de limitation du nombre de blogs (nous avions mis une limite à 7500) et l'ouverture des &lt;a href='http://groups.gandi.net/'&gt;Forums/Newsgroups&lt;/a&gt; dont un groupe est dédié à la communauté des GandiBloggeurs ! Ce genre d'outil est basé sur l'entraide des gens, le partage de l'experience, et ne vous inquietez pas, nous lisons aussi ces groupes :)&lt;br/&gt;
+La mise en place d'un tel service est pour nous primordiale et s'inscrit dans la même logique que le Bar de Gandi, fin 2005 : que la communauté autour de Gandi dispose d'outils puissants et simple pour s'entraider, pour échanger et s'informer. Et ce pour tous les produits et services importants de Gandi.&lt;br/&gt;&lt;br/&gt;
+Les TShirts, même si ce n'est pas vraiment une priorité pour nous, etaient apparemment très attendus d'une partie de la communauté Gandi :)
+Ca nous fait plaisir, c'est une marque d'attachement et nous en sommes fiers. Sachez aussi que sur chaque TShirt vendu (20€ TTC frais de port compris), une grande partie des bénéfices sert à financer les projets soutenus par Gandi !
+Toutefois, soyez indulgents, n'oubliez pas que notre métier, c'est la gestion des noms de domaines, et nous n'avons pas embauché des pros de la logistique pour gérer des produits dérivés. Donc, c'est nous tous chez Gandi qui allons mettre la mimime à la papatte pour vous expedier vos jolis TShirts. Cela dit, on s'est entrainé comme des bêtes et on en dechire plus qu'un sur deux en clouant le tissu sur l'enveloppe ;)</content>
+    <issued>2007-02-06 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/95"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-02-06 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 06</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-01-17:%2Fnews%2Fview%2F92</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;p&gt;Très attendue de nos revendeurs, voici Gandi API-XML.&lt;br /&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;
+
+        
+&lt;p&gt;Qu'est-ce qu'une API (Application Programming Interface) ? En vulgarisant, c'est un gros bout de code permettant de communiquer à travers plusieurs langages avec des tiers.
+Dans le cas de Gandi, c'est une suite de méthodes permettant à des revendeurs d'acheter mais aussi de gérer des domaines directement chez eux, en personnalisant leur interface et ainsi permettre à leurs propres clients de gérer leurs domaines via leur site.&lt;/p&gt;
+
+
+&lt;p&gt;C'est bien pour cela que cet outil est principalement à destination de nos revendeurs qui auront désormais la possibilité de se fabriquer leur propre Gandi estampillé de leur marque bien au chaud chez eux  :)
+Le choix du XML-RPC nous est paru évident par sa simplicité d'intégration et d'utilisation. Nous avons commencé à mettre en place une &lt;a href=&quot;https://www.gandi.net/faq/view_category/fr/6.3/Commandes_par_XML&quot; hreflang=&quot;fr&quot;&gt;FAQ dédiée&lt;/a&gt; à cet outil qui évoluera rapidement. J'invite les plus techniques (et les plus curieux) à jeter un oeil sur notre &lt;a href=&quot;http://api.ote.gandi.net/&quot; hreflang=&quot;en&quot;&gt;documentation&lt;/a&gt; en ligne. Celle-ci correspond à la version 0.9 de notre API XML-RPC et est exhaustive.&lt;/p&gt;
+
+
+&lt;p&gt;Pourquoi une V0.9 ? Car celle-ci a été testée en Alpha par notre équipe technique et certains revendeurs (encore merci à eux !) et malgré sa stabilité, elle ne pourra pas se prévaloir d'un numéro entier tant qu'elle ne comprendra pas toutes les méthodes de gestion utilisables sur Gandi. Les principales méthodes implémentées (31 méthodes tout de même) sont bien sûr opérationnelles, mais quelques-unes (7) seront disponibles un peu plus tard, dans un futur proche.&lt;/p&gt;
+
+
+&lt;p&gt;Afin de vous aider à avancer dans l'implémentation de cette API, nous avons créé un environnement de test dit OT&amp;E (Operational Test &amp; Evaluation). Cet environnement est connecté aux OT&amp;E des Registres que nous vendons (à l'exception temporaire du .FR qui vient d'ouvrir son OT&amp;E), ce qui vous laisse toute liberté de tester des achats et gestions de noms de domaine dans un monde virtuel  &lt;img src=&quot;/themes/default/smilies/smile.png&quot; alt=&quot;:)&quot; class=&quot;smiley&quot; /&gt;
+Afin de vous montrer ce que cela peut donner rapidement, voici l'exemple de &lt;a href=&quot;http://www.gandi-test.fr/index.php&quot; hreflang=&quot;fr&quot;&gt;gandi-test.fr&lt;/a&gt; développé par Nicolas, notre Directeur Produit (pas un développeur donc) en moins de deux jours !&lt;/p&gt;
+
+&lt;p&gt;A vous de bosser ! Le banc de test est disponible et la doc &lt;a href=&quot;https://api.ote.gandi.net/&quot; hreflang=&quot;en&quot;&gt;est là&lt;/a&gt; ! Pour ceux qui se lancent, et qui auraient besoin d'aide, nous avons mis en place une mailing-list pour le lancement de notre produit : api-ote _ar0base_ support.gandi.net . N'hesitez pas à utiliser cette adresse pour nous remonter d'eventuels problemes ou bugs que vous décèleriez.&lt;/p&gt;
+
+
+&lt;p&gt;Si l'API-XML semble correspondre à vos besoins, voici ce que vous devez faire pour que votre compte soit ouvert en Production :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Etape 1: vous devez créer un compte Gandi de type revendeur (ou bien convertir votre compte facturation dans la partie &quot;Gestion de mon compte&quot;)&lt;/li&gt;
+&lt;li&gt;Etape 2: vous devez activer les Gandi API XML sur la plateforme de test (OT&amp;E) dans la gestion de vos options revendeur.&lt;/li&gt;
+
+&lt;li&gt;Etape 3: à vous d'implémenter et de tester Gandi API XML sur la plate forme de test OT&amp;E&lt;/li&gt;
+&lt;li&gt;Etape 4: il vous faudra ensuite alimenter votre compte prépayé.&lt;/li&gt;
+&lt;li&gt;Etape 5: enfin il vous sera demandé de nous envoyer une demande d'autorisation d'ouverture de la plate-forme de production sur l'adresse email mentionnée dans l'interface d'activation&lt;/li&gt;
+&lt;li&gt;Etape 6: il ne vous restera plus qu'à activer Gandi API XML en production et passer vos commandes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;div align=&quot;right&quot;&gt;&lt;a href='http://www.lebardegandi.net/post/2007/01/17/Be-API-with-Gandi'&gt;Plus d'infos sur le blog&lt;/a&gt;&lt;/div&gt;</content>
+    <issued>2007-01-17 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/92"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-01-17 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Gandi API XML !</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-01-16:%2Fnews%2Fview%2F90</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Nous voici dans la continuité des modifications de l'architecture système chez Gandi, et dont l'un des projets était de pouvoir vous permettre plus de liberté sur votre nom de domaine.&lt;br /&gt;
+C'est aujourd'hui chose faite avec la &lt;b&gt;Redirection HTTP&lt;/b&gt; !&lt;br /&gt;
+Votre nom de domaine va prendre toute son ampleur grâce à la possibilité de rediriger indépendamment tous les sous domaines que vous souhaitez !!&lt;br/&gt;
+&lt;br/&gt;
+Toutes les informations &lt;a href=&quot;http://www.lebardegandi.net/post/2007/01/16/Redirections&quot;&gt;ici !&lt;/a&gt;&lt;br /&gt;</content>
+    <issued>2007-01-16 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/90"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-01-16 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Redirections</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-01-12:%2Fnews%2Fview%2F88</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;p&gt;
+Vu notre visibilité accrue en tant que registrar, et donc notre responsabilité envers la communauté internationale, nous avons redoublé nos efforts contre le spam et d'autres formes d'abus quant à l'utilisation des noms de domaines déposés chez Gandi.
+&lt;/p&gt;
+&lt;p&gt;
+Plus que jamais, nous sommes très attentifs à l'usage des domaines enregistrés auprès de nos services, et à vos plaintes pour utilisation abusive des noms de domaine. Gandi ne tolère aucune activité contraire à l’ordre public ou aux bonnes mœurs, la diffusion des virus, d'un cheval de Troie, ou des pratiques de collectes illégales ou frauduleuses des données personnelles.
+&lt;/p&gt;
+&lt;p&gt;
+Nous sommes très fiers d'avoir eu le courage de prendre une position anti-spam aussi forte, et donc de construire une communauté de clients à laquelle vous êtes également fiers de faire partie !
+&lt;/p&gt;
+&lt;p&gt;
+Pour plus d'informations sur notre politique anti-spam, et pour rejoindre
+la discussion sur ce thème, &lt;a
+href=&quot;http://www.lebardegandi.net/post/2007/01/11/Gandi-contre-le-spam&quot;&gt;venez
+en discuter sur le bar !&lt;/a&gt;</content>
+    <issued>2007-01-12 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/88"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-01-12 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Gandi Contre le Spam !</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-01-10:%2Fnews%2Fview%2F83</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Afin d'améliorer notre service, et pour préparer notre plateforme pour l'avenir, voici les principaux changements apportés au niveau des DNS :&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+&lt;li&gt;les nouvelles adresses pour nos nouveaux serveurs sont a.dns.gandi.net, b.dns.gandi.net, c.dns.gandi.net &lt;/li&gt;
+&lt;li&gt;les 3 serveurs sont répartis sur 3 sites pour plus de sécurité&lt;/li&gt;
+&lt;li&gt;passage de Bind8 à Bind9 (&lt;a href=&quot;http://www.isc.org/index.pl?/sw/bind/arm93&quot; target=&quot;_blank&quot;&gt;la doc de Bind9 en anglais&lt;/a&gt;).
+&lt;li&gt;un même fichier de zone peut être rattaché à plusieurs domaines; une modification sur le fichier sera alors appliquée à tous ces domaines.&lt;/li&gt;
+&lt;li&gt;les zones sont historisées, vous avez la possibilité de revenir en arrière en cas de modification erronée.&lt;/li&gt;
+&lt;li&gt;les modifications des zones sont désormais quasiment instantanées.&lt;/li&gt;
+&lt;li&gt;une nouvelle interface de modification de zone vous permet de modifier simplement le contenu de votre zone sans connaître la syntaxe BIND. (&lt;a href=&quot;https://www.gandi.net/admin/domain/change_dns_zone&quot;&gt;notre nouvelle interface&lt;/a&gt;).&lt;br/&gt;&lt;br/&gt;
+Afin de bénéficier des nouveaux services, vous devez paramétrer vos nouveaux DNS de la sorte :&lt;br/&gt;
+Serveur primaire :&lt;b&gt;a.dns.gandi.net&lt;/b&gt;&lt;br/&gt;
+Serveur secondaire :&lt;b&gt;b.dns.gandi.net&lt;/b&gt;&lt;br/&gt;
+DNS 3 : &lt;b&gt;c.dns.gandi.net&lt;/b&gt;&lt;br/&gt;
+&lt;br/&gt;
+Ce changement est automatisé si vous modifiez certains paramètres de vos domaines (comme activer la redirection web par exemple).</content>
+    <issued>2007-01-10 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/83"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-01-10 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Nouveaux DNS Gandi</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-01-10:%2Fnews%2Fview%2F84</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi depuis... oula, longtemps :) &lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+&lt;li&gt;Nouveau système de DNS !&lt;/li&gt;
+&lt;li&gt;Optimisation du système Prépayé pour les revendeurs&lt;/li&gt;
+&lt;li&gt;Installation de nouveaux serveurs Mail (nous avons presque triplé notre capacité)&lt;/li&gt;
+&lt;/ul&gt;
+Une année qui redémarre pour mes billets &quot;Au menu&quot;, avec de nouveaux numéros tout neuf, c'est émouvant :)&lt;br/&gt;
+Et sachant le nombre de changements qu'ils vont annoncer, billet après billet, l'aboutissement de longs mois de développement, de travail acharné dans une ambiance sulfureuse, chauffé au charbon à la lueur de torc... Ah ? On me dit que j'en fais un peu trop. Soit, mais sachez tout de même que le labeur fut rude et que l'équipe, toujours sur le pied de guerre est très fière de vous présenter, en même temps que ses meilleurs voeux, le résultat de son travail.&lt;br/&gt;
+&lt;br/&gt;
+Nous commencerons donc, en attendant la semaine prochaine, par une entrée de &quot;&lt;b&gt;DNS sauce Maison&lt;/b&gt;&quot;. Un projet très attendu par nombre d'entre vous, qui va vous permettre une bien plus grande flexibilité quant à la gestion de votre nom de domaine, et de façon très simple. Un post complet réalisé par Romuald, en charge du projet, est lisible &lt;b&gt;&lt;a href=&quot;http://www.gandi.net/news/view/83&quot;&gt;ici&lt;/a&gt;&lt;/b&gt;.&lt;br/&gt;
+Quant à moi, je vous invite à vous languir de mon prochain Menu, au moins aussi révolutionnaire que celui-ci :)</content>
+    <issued>2007-01-10 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/84"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-01-10 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 02</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2007-01-02:%2Fnews%2Fview%2F82</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Suite aux baisses de tarifs de l'Afnic pour le .FR et de EURid pour le .EU, les grilles B, C, D et E pour ces 2 extensions ont été alignées sur les autres grilles.&lt;br /&gt;
+&lt;br /&gt;
+Pour toutes les extensions gérées aujourd'hui, pour une création par exemple, les prix sont donc de :
+&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;12 € HT en grille A&lt;/li&gt;
+&lt;li&gt;11 € HT en grille B&lt;/li&gt;
+&lt;li&gt;9 € HT en grille C&lt;/li&gt;
+&lt;li&gt;7.5 € HT en grille D&lt;/li&gt;
+&lt;li&gt;6 € HT en grille E&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    <issued>2007-01-02 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/82"
+          rel="alternate"
+          type="text/html" />
+    <modified>2007-01-02 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Baisse de prix sur les opérations FR et EU</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-12-31:%2Fnews%2Fview%2F81</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">A partir du 1er janvier 2007, la Bulgarie et la Roumanie viennent compléter la liste des pays autorisés pour l'achat d'un nom de domaine en .EU.&lt;br /&gt;&lt;br /&gt;
+Nous rappelons à l'occasion que ce n'est pas la citoyenneté qui prime mais le lieu de résidence. Le propriétaire d'un nom de domaine en .EU doit justifier d'une adresse valide dans l'un des 27 pays européens.
+</content>
+    <issued>2006-12-31 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/81"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-12-31 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Bulgarie et Roumanie sont de la partie.</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-12-07:%2Fnews%2Fview%2F79</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Oui, le titre est aussi provocateur que la célèbre série de bouquin, mais c'est pour mieux attirer le chaland :)&lt;br /&gt;
+&lt;br /&gt;
+Toujours est-il que nous ne nous sommes pas mis à l'édition de livres éducatifs mais avons simplement répondu à une demande de beaucoup d'entres vous. Nous publions aujourd'hui nos premiers tutoriaux réalisés par l’équipe de Gandi, pour vous clients, aussi bien débutants qu'avertis, quelques fois perdus dans le merveilleux monde du nom de Domaine.&lt;br /&gt;
+&lt;br /&gt;
+Je vous invite à découvrir ce complément de la FAQ en suivant le bouton &lt;a href=&quot;/faq/tutorial/&quot;&gt;&lt;img src=&quot;/static/images/bt_guide.gif&quot; alt=&quot;Guide&quot;/&gt; &lt;/a&gt;</content>
+    <issued>2006-12-07 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/79"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-12-07 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Gandi pour les Nuls !</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-12-01:%2Fnews%2Fview%2F77</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Suite à une migration, l'envoi des emails confirmant vos opérations (créations, transferts renouvellements) est retardé. Ne vous inquiétez donc pas si vous n'avez pas reçu la confirmation finale habituelle, cet aspect n'affecte pas le bon traitement de vos commandes. En cas de doute, n'hésitez pas vérifier vos opérations avec le whois &lt;http://www.gandi.net/whois&gt;.
+Retour à la normale lundi midi.</content>
+    <issued>2006-12-01 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/77"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-12-01 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Emails de confirmation retardés (&lt;i&gt;résolu 04/12/2006&lt;/i&gt;)</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-11-30:%2Fnews%2Fview%2F73</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Ces derniers temps, nous avons beaucoup travaillé à reconstruire notre système de facturation (qui datait encore de Gandi V1), les premiers résultats sont enfin visibles :)
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+Nos grands comptes / revendeurs ont maintenant la possibilité :
+
+&lt;ul&gt;
+&lt;li&gt;d'utiliser un système de compte prépayé (alimenté par chèque, virement ou carte bancaire) pour payer leurs commandes Gandi.&lt;/li&gt;
+&lt;li&gt;de passer, en option, sur une facturation mensuelle.&lt;/li&gt;
+&lt;li&gt;de bénéficier dès maintenant d'une grille de prix adaptés.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+Cette grille de prix est :
+&lt;ul&gt;
+&lt;li&gt;disponible pour tous (revendeurs ou non, particuliers ou entreprise...)&lt;/li&gt;
+&lt;li&gt;automatique lors de chaque commande.&lt;/li&gt;
+&lt;li&gt;calculée sur le montant total dépensé sur Gandi sur les 12 derniers mois glissants (plus le montant de la prochaine commande)&lt;/li&gt;
+- la &lt;b&gt;grille B&lt;/b&gt; est disponible à partir de &lt;b&gt;500 € HT&lt;/b&gt; de commande sur les 12 derniers mois (soit environ 42 domaines à 12 € HT)&lt;br/&gt;
+- la&lt;b&gt; grille C&lt;/b&gt; à partir de &lt;b&gt;1 500 € HT&lt;/b&gt; de commande&lt;br/&gt;
+- la &lt;b&gt;grille D&lt;/b&gt; à partir de &lt;b&gt;5 000 € HT&lt;/b&gt; de commande&lt;br/&gt;
+- la &lt;b&gt;grille E&lt;/b&gt; pour plus de &lt;b&gt;10 000 € HT&lt;/b&gt; de commande&lt;br/&gt;
+&lt;/ul&gt;
+
+La grille de prix est disponible à l'adresse suivante :&lt;br /&gt;
+&lt;a href='http://www.gandi.net/domaine/prix/info'&gt;http://www.gandi.net/domaine/prix/info&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;
+Au chapitre des nouveautés, le système de facturation va encore évoluer dans les prochains mois et donnera les possibilités :
+&lt;ul&gt;
+&lt;li&gt;pour ceux qui le souhaitent, de payer leurs commandes Gandi en Livre Sterling, Dollar, Franc Suisse ou Yen. (je rappelle que nous vendons des domaines sur 198 pays)&lt;/li&gt;
+&lt;li&gt;d'activer un renouvellement automatique sur leurs domaines, pour éviter toute interruption de service.&lt;/li&gt;
+&lt;li&gt;de payer par d'autres moyens de paiement. &lt;/li&gt;
+&lt;/ul&gt;</content>
+    <issued>2006-11-30 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/73"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-11-30 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Grille de prix activée !</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-11-30:%2Fnews%2Fview%2F75</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Le Registre du .BE nous fait savoir qu'il coupera ses machines pour un passage en V2 de leur plateforme technique cette nuit, à minuit et ce, pour une durée indeterminée.&lt;br/&gt;
+Durant ce laps de temps, pouvant aller de quelques heures au mieux à super longtemps au pire(loi de Murphy), toutes les opérations concernants les domaines en .BE ne seront pas possible (si ces mêmes opérations engendrent une demande au Registre bien-sur).&lt;br/&gt;
+Nous vous tenons au jus dés que nos amis belges rebranchent la prise !&lt;br/&gt;</content>
+    <issued>2006-11-30 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/75"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-11-30 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">DNS.BE fait sa V2</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-11-15:%2Fnews%2Fview%2F71</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Dans le cadre du déploiement de notre nouveau modèle de base de données, nous allons procéder à des opérations de maintenance importantes sur l'ensemble du site (de mercredi 15/11 à 11h30 jusqu'à lundi 20/11 au matin). Celles-ci ne devraient pas poser de soucis pour la plus grande partie des opérations courantes. Toutefois, nous nous excusons par avance pour la gêne éventuelle que vous pourriez rencontrer.</content>
+    <issued>2006-11-15 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/71"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-11-15 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Opération de maintenance sur gandi.net</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-10-27:%2Fnews%2Fview%2F69</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Voici les modifications apportées à Gandi du 02/10 au 26/10 :&lt;br&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;Corrections dans l'affichage des statuts des domaines&lt;/li&gt;
+&lt;li&gt;Ajout de la page de présentation d'un nouveau projet soutenu par Gandi: &lt;a href=&quot;http://www.gandi.net/soutient/inlibroveritas/&quot; hreflang=&quot;fr&quot;&gt;&quot;In Libro Veritas&quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Beaucoup de travail sur notre système de gestion interne&lt;/li&gt;
+&lt;li&gt;Correction d'un bug sur la relance des transferts échoués&lt;/li&gt;
+&lt;li&gt;Ajout de la possibilité de modifier la redirection du compte postmaster@&lt;/li&gt;
+&lt;li&gt;Modifications de GandiBLog pour préparer la sortie en version finale (voir &lt;a href=&quot;/post/2006/10/12/Mise-a-jour-de-GandiBlog&quot; hreflang=&quot;fr&quot;&gt;ce billet&lt;/a&gt; et &lt;a href=&quot;/post/2006/10/13/GandiBlog-multi-redacteurs&quot; hreflang=&quot;fr&quot;&gt;celui-ci&lt;/a&gt;)&lt;/li&gt;
+
+&lt;li&gt;Refonte de la page de suivie des commandes en cours&lt;/li&gt;
+&lt;li&gt;Plus de 5000 mails traités au support&lt;/li&gt;
+&lt;/ul&gt;
+        
+   Ca faisait longtemps que l’on n’avait pas pondu un billet -Au Menu- et ça vous manquait un peu. Si si, je le sais, on me l'a dit &lt;br&gt;
+La principale raison de ce silence, c'est que nous travaillons beaucoup sur des projets qui impliquent beaucoup de travail de fond. Donc, une partie invisible à l'utilisateur. Mais je vous assure que cela avance, et que les nouvelles fonctionnalités vont pleuvoir dans vos interfaces d'ici peu de temps. &lt;br&gt;
+Beaucoup de choses sont en test actuellement et vous n'allez pas tarder à constater ces fonctionnalités en live</content>
+    <issued>2006-10-27 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/69"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-10-27 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 43</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-09-29:%2Fnews%2Fview%2F67</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi du 18/09 au 29/09 :&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+
+&lt;li&gt;Changement de propriétaire actif pour les .FR&lt;/li&gt;
+&lt;li&gt;Modification de la &lt;a href='http://www.gandi.net/domaine/blog/' target=_blank&gt;page de présentation&lt;/a&gt; des blogs&lt;/li&gt; 
+&lt;li&gt;Affichage de l'email destinataire sur les commandes en cours (Changement de propriétaire)&lt;/li&gt;
+&lt;li&gt;Correction d'un problème de lien pour les revendeurs (Changement de propriétaire)&lt;/li&gt;
+&lt;li&gt;Correction d'un bug d'affichage dans le tableau de bord pour le 11eme domaine&lt;/li&gt;
+&lt;li&gt;Installation de nouveaux serveurs pour GandiBlog&lt;/li&gt;
+&lt;li&gt;Près de 3000 Emails traités au support&lt;/li&gt; 
+&lt;/ul&gt; 
+
+Nous voici avec une extension en plus dans la famille des changements de propriétaire : le .FR. il nous reste donc à implémenter cette fonction pour le .BE et .EU et nous serons au complet :)&lt;br/&gt;
+Vous avez également pu voir qu'un certain nombres de maintenances ont eu lieu ces deux dernières semaines, et cela dans l'optique de l'ouverture prochaine de GandiBlog, puis de GandiMail...  Donc, ajout de serveurs, câblage, configuration, tout ça....&lt;br/&gt;
+Avant que vous posiez la question : oui, merci, le travail avance bien pour les autres gros projets.</content>
+    <issued>2006-09-29 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/67"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-09-29 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 39</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-09-15:%2Fnews%2Fview%2F65</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi du 04/09 au 15/09 :&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+
+&lt;li&gt;Changement de propriétaire actif pour les .ORG .INFO .NAME .BIZ&lt;/li&gt; 
+&lt;li&gt;Implémentation des achats de .FR et .EU dans l'API Mail&lt;/li&gt;
+&lt;li&gt;Ajout de la FAQ liée à cette partie de l'API Mail&lt;/li&gt;
+&lt;li&gt;Affichage des renouvellements dans 'commandes en cours'&lt;/li&gt;
+&lt;li&gt;L'indicatif téléphonique se remplit automatiquement sous IE (déjà en place sous FF)&lt;/li&gt;
+&lt;li&gt;Modification de la page 'Gandi Soutient'&lt;/li&gt;
+&lt;li&gt;Plus de 2700 Emails traités au support&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;br/&gt;
+La fonction de changement de propriétaire en ligne a été étendue à 4 extensions supplémentaires (ORG-INFO-NAME-BIZ) et la gratuité de l'opération reconduite jusqu'au 30 octobre pour ces extensions !&lt;br/&gt;
+Nos &quot;comptes pro&quot; retrouvent enfin les fonctionnalités de l'API Mail (achat de .FR), avec en plus la possibilité de choisir un &quot;handle&quot; propriétaire. 
+Nous avons également amélioré deux - trois processus afin de pouvoir mieux traiter les demandes au support et éviter les erreurs récurrentes. &lt;br/&gt;Nos équipes Dev sont mobilisées sur les grands projets, et qui dit grand projet, dit gros délais :) Mais le travail avance, et il le fait bien !</content>
+    <issued>2006-09-15 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/65"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-09-15 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 37</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-09-12:%2Fnews%2Fview%2F63</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Ce soir, vers 22h00, nos gentils administrateurs réseau vont intervenir sur notre infrastructure pour effectuer des opérations de maintenance sur des services redondés.&lt;br/&gt;
+L'opération devrait donc être transparente pour nos utilisateurs, mais il y a toujours un conditionnel dans l'informatique ;)</content>
+    <issued>2006-09-12 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/63"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-09-12 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Maintenance</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-09-01:%2Fnews%2Fview%2F61</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi du 14/08 au 31/08 :&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+
+&lt;li&gt;Implémentation de l'auto-completion sur les identifiants Gandi&lt;/li&gt; 
+&lt;li&gt;Remise automatique des anciens DNS valides en cas d'erreur&lt;/li&gt;
+&lt;li&gt;Modification du process de transfert entrant pour les .COM et .ORG (sans email de propriétaire)&lt;/li&gt;
+&lt;li&gt;Amélioration des outils de monitoring internes&lt;/li&gt;
+&lt;li&gt;Plus de 3600 Emails traités au support&lt;/li&gt; 
+&lt;/ul&gt; 
+
+Les gros projets sont lancés. Même si cette liste ne le laisse pas paraître, l'équipe Technique est en effervescence : API XML pour les revendeurs/comptes pro, refonte de nos outils de paiement (avec de nouvelles options à la clé), ajout d'une salle serveurs dans Paris... L'ambiance n'a plus rien d'estivale, comme notre météo locale d'ailleurs :)&lt;br/&gt;&lt;br/&gt;
+Le prochain billet devrait annoncer la mise en production du Forum Gandi, largement attendu par notre petite communauté. En attendant, flexion du dos, on replonge la tête dans le guidon ;)&lt;br/&gt;</content>
+    <issued>2006-09-01 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/61"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-09-01 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 35</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-08-31:%2Fnews%2Fview%2F60</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Toutes les bonnes choses ont une fin. Dès demain, le prix de vente des domaines en .FR repasse de 9€HT à 12€HT pour une création ou un transfert.
+&lt;br /&gt;&lt;br /&gt;
+Depuis le lancement de notre offre pour soutenir l'ouverture du .FR, près de 21000 domaines en .FR ont été créés chez Gandi (environ 100000 ont été créés au total), ce qui est un très bon résultat.
+&lt;br /&gt;&lt;br /&gt;
+Du coup, comme cela fonctionne si bien, vous allez forcement nous poser la question de pourquoi nous ne maintenons pas le prix de 9€HT ?. La réponse est assez simple, la (lourde) gestion administrative font que 50% de nos requêtes support concernent des problèmes liés aux .FR. Un prix de 9€HT ne nous permet pas de maintenir la même qualité de service.
+&lt;br /&gt;&lt;br /&gt;
+Le .FR repasse donc à 12€HT à partir du 1er septembre pour une création ou un transfert [teasing] en attendant notre grille prix de prix dégressifs, selon les quantités achetées.[/teasing]&lt;br /&gt;&lt;br /&gt;</content>
+    <issued>2006-08-31 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/60"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-08-31 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Fin de la promotion sur le .FR</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-08-17:%2Fnews%2Fview%2F58</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi du 24/07 au 11/08 :&lt;br/&gt;&lt;br/&gt;&lt;ul&gt; 
+&lt;li&gt;Nombreuses corrections/optimisations dans les processus de transfert&lt;/li&gt; 
+&lt;li&gt;Ajout de nouvelles icônes de protection de transfert (plus intuitives)&lt;/li&gt; 
+&lt;li&gt;Correction sur les arrondis de décimales TVA pour les factures&lt;/li&gt; 
+&lt;li&gt;Correction d'un bug sur les exports CSV&lt;/li&gt; 
+&lt;li&gt;Correction de l'affichage du statut du domaine (Redirection DNS, Web, etc...)&lt;/li&gt; 
+&lt;li&gt;Changement de propriétaire en ligne activé pour .COM, .NET&lt;/li&gt; 
+&lt;li&gt;Retour automatique sur les anciens DNS en cas de modification erronée pour un .FR&lt;/li&gt; 
+&lt;li&gt;Près de 4500 Emails traités au support&lt;/li&gt; 
+&lt;/ul&gt; 
+Les vacances commencent pour certains et finissent pour d'autres, c'est mon cas :)&lt;br/&gt; 
+En attendant, les dev de chez Gandi n'ont pas chômé pendant que j'écoutais l'herbe pousser. Le gros chantier, c'est bien sûr le changement de propriétaire en ligne dont vous trouverez toutes les infos &lt;a href='http://www.gandi.net/news/view/56' target=_blank&gt;ici&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;
+Pas mal de petits bugs corrigés également, un gros travail effectué du côté du support afin de pouvoir revenir à des délais de réponse hyper réactifs, et toujours du monde sur la partie Compte Pro, même si celle-ci n'est pas encore visible.</content>
+    <issued>2006-08-17 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/58"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-08-17 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 32</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-08-10:%2Fnews%2Fview%2F56</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Nous venons de ré-ouvrir l'interface de changement de propriétaire en ligne pour les extensions .COM et .NET.&lt;br/&gt;
+Elle est disponible sous le lien &quot;Céder à un tiers&quot; sur la page d'administration du domaine concerné ou dans le menu déroulant &quot;Changements multiples&quot; en bas de page de votre tableau de bord.
+&lt;br/&gt;&lt;br/&gt;
+Pour fêter cette sortie les changements de propriétaires seront gratuits pour tout le monde jusqu'au 30 septembre 2006 ainsi que pour les identifiants propriétaires créés lors de la migration sur Gandi V2. Cette promotion s'applique également suite à un transfert de domaine.&lt;br/&gt;
+La gratuité ne concerne pas les extensions en .BE, .EU et .FR car cette action prolonge la vie de votre domaine d'une année complète pour ces extensions.
+&lt;br/&gt;&lt;br/&gt;
+L'interface de changement de propriétaire sera ré-ouverte dans la première quinzaine de septembre pour les autres extensions et le 18 septembre pour les .FR (lors de la ré-ouverture par l'Afnic)</content>
+    <issued>2006-08-10 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/56"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-08-10 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Réouverture du changement de propriétaire en ligne</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-08-09:%2Fnews%2Fview%2F54</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Le mois dernier, le compte de type revendeur a été lancé sur Gandi. Si votre activité sur Gandi consiste à acheter des noms de domaine pour des tierces personnes, nous vous recommandons de vous déclarer comme revendeur lors de la création de votre compte Gandi ou de convertir votre compte existant dans la partie &lt;a href=/admin/compte&gt;gestion de votre compte&lt;/a&gt; en cliquant sur le lien &quot;transformer mon compte en revendeur&quot;.
+&lt;br /&gt;&lt;br/&gt;
+Une fois votre compte passé en revendeur, vous bénéficierez d'interfaces plus adaptées à votre activité, par exemple :
+&lt;ul&gt;&lt;li&gt;le processus de commande vous permettra de choisir clairement le propriétaire de vos domaines,&lt;/li&gt;
+&lt;li&gt;l'interface d'administration remontera de manière plus évidente les propriétaires de vos domaines,&lt;/li&gt;
+&lt;li&gt;l'affichage de vos factures sera facilité avec la possibilité d'avoir une vue mensuelle,&lt;/li&gt;
+&lt;li&gt;aucune communication ne sera effectuée directement avec les propriétaires de vos domaines,&lt;/li&gt;
+&lt;li&gt;vous aurez la possibilité de modifier les informations pour les propriétaires que vous avez créés via votre compte revendeur,&lt;/li&gt;
+&lt;li&gt;vous bénéfierez enfin très prochainement de nouvelles interfaces vous permettant d'optimiser la gestion de vos domaines sur Gandi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+Beaucoup de nos clients professionnels nous ont demandé s'il serait possible d'avoir une version d'essai du compte revendeur de manière à pouvoir se rendre compte des différences avec l'interface normale. Bien que nous n'ayons pas de &quot;version d'essai&quot; pour l'instant, nous avons réalisé des captures d'écran pour vous montrer où se situe la différence majeure : la page d'enregistrement. 
+&lt;br /&gt;&lt;br /&gt;
+Avec un compte &quot;revendeur&quot;, en plus des autres contacts, vous pouvez choisir le propriétaire du domaine au moment de l'enregistrement, sans avoir à quitter votre propre compte. &lt;br /&gt;&lt;br /&gt;
+
+&lt;a href=&quot;http://www.gandibar.net/public/images/Reseller%20Interface/compare-fr-1000px.gif&quot; target=&quot;blank&quot;-&gt;Ici se trouve une comparaison des deux interfaces montrant cette différence&lt;/a&gt; : Comme vous pouvez le voir, sur l'interface revendeur, vous pouvez spécifier le propriétaire en saisissant son identifiant Gandi.&lt;br /&gt;&lt;br /&gt;
+Si le futur propriétaire du domaine a déjà un identifiant Gandi, vous pouvez rechercher celui-ci en cliquant sur &quot;Rechercher&quot;. 
+&lt;br /&gt;&lt;br /&gt;
+Une fenêtre apparait, contenant un formulaire vous permettant de chercher un contact existant. A l'inverse, si le futur propriétaire n'a pas d'identifiant Gandi, vous pouvez en créer un pour lui en cliquant sur &quot;Créer&quot;. Bien qu'i y ait quelques autres différences (recherche par mois, etc...), celles-ci restent mineures et ne se démarquent pas tellement de l'interface originale par défaut.
+&lt;br /&gt;&lt;br/&gt;Si vous avez d'autres questions concernants cette nouvelle fonctionnalité, n'hésitez pas à nous contacter sur &lt;a href=mailto:direction@gandi.net&gt;direction@gandi.net&lt;/a&gt;
+
+</content>
+    <issued>2006-08-09 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/54"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-08-09 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">&lt;b&gt;Info Revendeurs&lt;/b&gt; !</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-07-28:%2Fnews%2Fview%2F52</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi du 17/07 au 23/07 :&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+&lt;li&gt;Possibilité de changer sa conf. DNS en cas d'erreur pendant la création du domaine&lt;/li&gt;
+&lt;li&gt;Script de relance automatique des tickets Afnic pour les DNS modifiés&lt;/li&gt;
+&lt;li&gt;Ajout des détails d'erreur dans les domaines en transfert&lt;/li&gt;
+&lt;li&gt;Possibilité de changer son domaine si celui-ci est déjà pris&lt;/li&gt;
+&lt;li&gt;Ouverture de 1500 blogs de plus sur la Beta GandiBlog&lt;/li&gt;
+&lt;li&gt;Plus de 1000 Emails traités au support&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+Vous êtes revenus de vacances ? Vous avez pleins de photos à montrer à vos amis et pas vraiment envie de plonger à corps perdu dans le travail ? Sautez vite sur l'occasion pour ouvrir l'un des 1500 nouveaux blogs en Bêta test chez nous ! Cette nouvelle fournée portera le nombre de blogs en Bêta test à 3000.&lt;br/&gt;&lt;br/&gt;
+Vous êtes un Compte Pro ? Vous n'aimez pas les vacances et vous attendez impatiemment que l'équipe de Gandi améliore votre interface dédiée ? J'ai le plaisir de vous informer que les formulaires &quot;améliorés&quot; sont en cours de test et devraient faire leur apparition la semaine prochaine (31).&lt;br/&gt;&lt;br/&gt;
+Vous lisez cette note avec un sourire radieux affiché sur le visage ? C’est donc que vous êtes comme moi : en vacances ce soir ;)</content>
+    <issued>2006-07-28 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/52"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-07-28 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 30</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-07-25:%2Fnews%2Fview%2F51</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Eurid, le registre en charge des noms de domaines en .EU vient de bloquer 74000 noms de domaines et assigne 400 agents pour &quot;rupture de contrat&quot;. Peu exigent sur l'ouverture du compte registrar (il suffisait d'un dépot de 10000€) EURid s'est vite retrouvé débordée par la création de centaines de petites structures se revendiquant registrar, ce qui a entrainé une vague de cybersquatting lors de l'ouverture.
+&lt;br/&gt;&lt;br/&gt;
+&lt;div align=&quot;right&quot;&gt;&lt;a href=&quot;http://www.lebardegandi.net/post/2006/07/25/Apres-lAfnic-Eurid-decide-de-bloquer-74000-domaines&quot;&gt;Lire la suite sur le blog de Gandi&lt;/a&gt;&lt;/div&gt;</content>
+    <issued>2006-07-25 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/51"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-07-25 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Après l'Afnic, Eurid décide de bloquer 74000 domaines</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-07-20:%2Fnews%2Fview%2F49</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi du 10/07 au 16/07 :&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+&lt;li&gt;Ajout des détails d'erreur dans les domaines en échec&lt;/li&gt;
+&lt;li&gt;Modification de certains mails automatiques erronés&lt;/li&gt;
+&lt;li&gt;Possibilité d'annuler une commande passée par chèque&lt;/li&gt;
+&lt;li&gt;Correction de l'affichage du type de contact quand il est verrouillé (particulier, société...)&lt;/li&gt;
+&lt;li&gt;Ajout de règles de validation des formulaires Contact sur l'achat des .FR&lt;/li&gt;
+&lt;li&gt;Plus de 1200 Emails traités au support&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;&lt;br/&gt;
+Le plus gros morceau pour nous cette semaine était de faire en sorte d'informer les clients du type d'erreur empêchant la création ou le transfert de leur nom de domaine chez nous. Typiquement, les règles de création d'un nom de domaine en .FR sont très strictes et beaucoup de clients ne donnent pas les bonnes informations sur notre formulaire, ce qui entraîne un refus de la part de l'Afnic. &lt;br/&gt;&lt;br/&gt;
+C'est souvent une petite chose, comme un numéro de téléphone oublié ou faux (+33.000000000), un champ pays de naissance non renseigné etc... 
+Chacune de ces &quot;petites&quot; erreurs non identifiées par les clients nous vaut un, et plus souvent deux ou trois tickets par client. Le support se retrouve avec des tickets multiples sur des opérations mineures mais en très grand nombre !&lt;br/&gt;&lt;br/&gt;
+Nous avons donc travaillé sur un système de décomposition des messages d'erreur de l'Afnic pour tenter de renseigner les clients ayant des domaines concernés afin qu'ils puissent eux-mêmes corriger leur formulaire. Sachant qu'un robot passe sur les demandes en erreur toute les 30 minutes pour relancer les domaines ayant subis des modifications, vous irez beaucoup plus vite qu'en passant par le support :)&lt;br/&gt;</content>
+    <issued>2006-07-20 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/49"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-07-20 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 29</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-07-12:%2Fnews%2Fview%2F47</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi du 03/07 au 09/07 :&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+&lt;li&gt;Installation du nouveau protocole pour les .NAME&lt;/li&gt;
+&lt;li&gt;Debugs divers sur l'interface Revendeurs&lt;/li&gt;
+&lt;li&gt;Réparation de certains outils du support&lt;/li&gt;
+&lt;li&gt;Affichage des factures par année (par mois pour les revendeurs)&lt;/li&gt;
+&lt;li&gt;Amélioration des transferts entrants du .FR&lt;/li&gt;
+&lt;li&gt;Plus de 1000 Emails traités au support&lt;/li&gt;
+&lt;/ul&gt;
+
+Peu de remontées de bugs sur l'interface Revendeur, ce qui nous a permis de nous concentrer dessus et de pouvoir annoncer une release Finale dés demain (13/07) :)&lt;br/&gt;
+Tout client de Gandi pourra en bénéficier, mais sachez toutefois que le passage d'un compte en compte Revendeur est irreversible. Cette option est vraiment dimensionnée pour les revendeurs de noms de domaine achetant donc plusieurs domaines pour des propriétaires differents.&lt;br/&gt;
+Nous insistons sur le fait que les particuliers ou sociétés gérants leurs domaines propres ne trouverons aucun avantage à ce status et ne pourrons pas demander de retour en arrière pour les comptes transformés.</content>
+    <issued>2006-07-12 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/47"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-07-12 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 28</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-07-07:%2Fnews%2Fview%2F45</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi du 26/06 au 02/07 :&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+&lt;li&gt;Résolution des erreurs de connection dans certains cas (TimeOut)&lt;/li&gt;
+&lt;li&gt;Ouverture en &lt;b&gt;Beta du Compte Revendeur&lt;/b&gt; !&lt;/li&gt;
+	&lt;ul&gt;
+		&lt;li&gt;Création de plusieurs propriétaires à la volée sur formulaire simplifié&lt;/li&gt;
+		&lt;li&gt;Coupure de la communication de création de compte sur email proprio&lt;/li&gt;
+		&lt;li&gt;Remontée des factures avec une vision mensuelle&lt;/li&gt;
+		&lt;li&gt;De nombreuses petites autres choses adaptées aux personnes gérant de nombreux domaines pour des tiers&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;li&gt;Ajout de 1000 comptes Beta sur GandiBlog&lt;/li&gt;
+&lt;li&gt;Amélioration de nos outils de monitoring (parceque nous aussi nous le valons bien ;))&lt;/li&gt;
+&lt;li&gt;Export CSV personnalisable&lt;/li&gt;
+&lt;li&gt;Ajout des détails durant la procédure de Transfert&lt;/li&gt;
+&lt;li&gt;Possibilité d'initier des transferts de plusieurs domaines ayant des propriétaires differents&lt;/li&gt;
+&lt;li&gt;Près de 2400 Emails traités au support&lt;/li&gt;
+&lt;/ul&gt;
+
+Le répartiteur de charge (LoadBalancer) nous en a fait voir de toutes les couleurs, notamment pour nos clients gérant plusieurs milliers de domaines, mais nos courageux AdminSys ont dompté la bête ...&lt;br&gt;
+Le compte Revendeur voit enfin le jour avec ses nombreuses features attendues. Quelques privilegiés (volontaires) savourent déjà ces fonctionnalités tout en nous aidant à améliorer les outils. La version définitive devrait pouvoir voir le jour en milieu de semaine prochaine !&lt;br&gt;
+Il reste 400 blogs Beta disponibles, donc avis à ceux qui croyaient que c'était trop tard :)</content>
+    <issued>2006-07-07 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/45"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-07-07 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 27</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-06-28:%2Fnews%2Fview%2F43</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi du 19/06 au 25/06 :&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+&lt;li&gt;Optimisation et correction des formulaires de Contact&lt;/li&gt;
+&lt;li&gt;Modification de la zone de saisie DNS Expert&lt;/li&gt;
+&lt;li&gt;Correction de l'affichage des contacts par domaine (Tableau de bord)&lt;/li&gt;
+&lt;li&gt;Correction des exports d'informations de notre Whois&lt;/li&gt;
+&lt;li&gt;Correction de notre système d'alarme pour les renouvellement de domaines&lt;/li&gt;
+&lt;li&gt;Pres de 3000 Emails traités au support&lt;/li&gt;
+&lt;/ul&gt;
+
+Comme vous le savez pour la plupart, nous avons passé beaucoup de temps sur la correction des formulaires erronés pour les demandes de .fr, puisque plus d'un millier d'erreurs ont été corrigés par nos mimines avant d'être renvoyé à l'Afnic.&lt;br/&gt;
+Je ne parle même pas du Beta Blog, auquel nous avons attribué une équipe, certes limitée (priorité aux domaines), mais tout de même très active.&lt;br/&gt;&lt;br/&gt;
+Nous sommes conscients que certains d'entre vous ont encore des tickets non résolus au support, mais je puis vous assurer que l'équipe met toute son énergie à votre service !</content>
+    <issued>2006-06-28 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/43"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-06-28 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 26</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-06-21:%2Fnews%2Fview%2F41</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;p&gt;C'est avec plaisir que nous vous annonçons l'ouverture de GandiBlog en beta publique pour les 500 premières activations. Si tout se passe bien, l'ouverture totale suivra très vite. Tout domaine enregistré chez Gandi donne droit à l'ouverture d'un blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.lebardegandi.net/post/2006/06/23/GandiBlog-Beta&quot;&gt;En savoir plus...&lt;/a&gt;&lt;/p&gt;</content>
+    <issued>2006-06-21 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/41"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-06-21 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Lancement de GandiBlog en Beta publique</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-06-17:%2Fnews%2Fview%2F37</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Le 20 juin 2006, l'Afnic, registre en charge du .FR ouvre l'achat des noms de domaine en .FR aux particuliers de plus de 18 ans résidant en France. Aucun document justificatif ne sera demandé, vous devrez juste donner votre date, votre ville, votre pays et votre numéro de département de naissance. (indiquez 99 si vous êtes né à l'étranger)
+&lt;br/&gt;&lt;br/&gt;
+Cette ouverture s'effectuera en plusieures phases :&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;du 16 juin 17h au 20 juin 9h, aucune commande ne pourra être transmise à l'Afnic (ni achat, ni transferts, ni changement de DNS,...). Gandi passera l'ensemble de vos modifications dès la réouverture mardi matin.&lt;/li&gt;
+&lt;li&gt;le 20 juin à 9h, les domaines commençant par un chiffre ou par les lettres A et B seront transmis à l'Afnic, toutes les autres commandes seront reportées aux jours suivants&lt;/li&gt;
+&lt;li&gt;le 21 juin à 9h, les domaines commançant par un chiffre ou par une lettre comprise entre A et F seront transmis à l'Afnic, toutes les autres commandes seront reportées aux jours suivants&lt;/li&gt;
+&lt;li&gt;le 22 juin à 9h, les domaines commançant par un chiffre ou par une lettre comprise entre A et N seront transmis à l'Afnic, toutes les autres commandes seront reportées aux jours suivants&lt;/li&gt;
+&lt;li&gt;enfin le 23 juin à 9h, tous les domaines seront de nouveau transmis à l'Afnic&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <issued>2006-06-17 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/37"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-06-17 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Planning d'ouverture du .fr aux particuliers</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-06-14:%2Fnews%2Fview%2F36</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">EURid nous a communiqué le message suivant:&lt;br/&gt;
+&quot;Les statistiques de validation de la phase Sunrise indiquent que la majorité des validations seront terminées fin Septembre. Pour certaines langues, le processus pourrait toutefois s’étendre jusqu’en Octobre, alors que pour d’autres l’extinction pourrait avoir lieu plus tôt. Les validations ayant trait aux marques déposées seront terminées vers la fin Juin. EURid suit le processus de très près et publiera toute modification du pronostic si les chiffres devaient évoluer de façon significative.&quot;&lt;br/&gt;&lt;br/&gt;
+
+En clair et en résumé:&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;les applications Sunrise 1 (déposées avant le 7 février) recevront un réponse avant la fin du mois. &lt;/li&gt;
+&lt;li&gt;les applications Sunrise 2 recevront une réponse avant Octobre&lt;/li&gt;
+&lt;li&gt;Les domaines rejetés ou expirés seront tous relachés avant la fin de l'année.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+    <issued>2006-06-14 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/36"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-06-14 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Validation des demandes Sunrise avant fin Septembre</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-06-13:%2Fnews%2Fview%2F34</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">&lt;br/&gt;Voici les modifications apportées à Gandi du 05/06 au 11/06 :&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;
+&lt;li&gt;Le Pager est maintenant stabilisé et affiche correctement le nombre de domaines choisis, il conserve également les paramètres durant toute la session&lt;/li&gt;
+&lt;li&gt;Les domaines bientôt à expiration ou expirés sont revêtus de leurs plus belles couleurs : Orange -&gt; moins d'un mois; Rouge -&gt; expirés&lt;/li&gt;
+&lt;li&gt;Modification de la police dans le Whois pour le plus grand plaisir des yeux sensibles&lt;/li&gt;
+&lt;li&gt;Le lien dans l'email de renouvellement a été corrigé&lt;/li&gt;
+&lt;li&gt;plus de 3000 demandes au support ont été traités &quot;à la main&quot;, on ne parle pas de réponses automatiques ici :)&lt;/li&gt;
+&lt;li&gt;2/3 des problèmes remontés ont été corrigés...&lt;/li&gt;
+&lt;/ul&gt;
+
+L'equipe est sur le pied de guerre pour préparer la &quot;liberalisation&quot; du .fr aux particulier (à partir du 20 juin) mais nous continuons bien sûr à travailler sur la stabilisation des transferts, car nous avons certains cas, rares heureusement, pour lesquels nous rencontrons encore quelques difficultés.&lt;br/&gt; Certains dus à des contacts mal renseignés d'autre encore du fait des registres... &lt;br/&gt;&lt;br/&gt;Le travail continue, et les nouveautés arrivent : très bientôt nous vous proposerons GandiBlog, le .fr pour tous, etc ...</content>
+    <issued>2006-06-13 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/34"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-06-13 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Au menu - semaine 24</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-06-01:%2Fnews%2Fview%2F29</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Depuis 1999, Gandi mène une vraie lutte pour que la vente de notre extension nationale, le .fr, soit la plus facile et abordable possible à tous les points de vues (prix, conditions d'attribution, processus d'achat ...).
+&lt;br /&gt;&lt;br /&gt;
+Nous sommes allés jusqu'à boycotter la vente du .fr pendant des années, en signe de protestation vis-à-vis de règles et de tarifs en absolue contradiction avec ce qu'il se passait dans le monde entier. 
+&lt;br /&gt;&lt;br /&gt;
+Depuis le 1er Juin, tout cela est derrière nous, et nous sommes très fiers d'avoir fortement contribué à la renaissance du .fr pour tous : le processus d'enregistrement est simplifié, ouvert à tous (&lt;b&gt;particuliers compris à partir du 20 Juin 2006&lt;/b&gt;), et les tarifs baissent !!!
+&lt;br /&gt;&lt;br /&gt;
+Gandi vous propose donc, &lt;b&gt;d'aujourd'hui jusqu'au 1er Septembre 2006&lt;/b&gt;, de soutenir ce changement positif - véritablement crucial pour la diffusion d'Internet en France avec l'essor de l'accès haut débit - &lt;b&gt;en proposant à tous l'achat ou le transfert de vos .fr pour 9€ HT&lt;/b&gt; : n'hésitez plus, et rattrapons notre retard sur nos voisins !
+&lt;br /&gt;&lt;br /&gt;
+Attention, les renouvellements restent inchangés, notre but est d'aider l'essort du .fr, pas de perdre de l'argent sur chaque nom de domaine vendu :D</content>
+    <issued>2006-06-01 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/29"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-06-01 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Le .fr pour tous à 9€ HT !</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-06-01:%2Fnews%2Fview%2F30</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Nous étions 7, et fûmes 5 000 en arrivant au port ... Certes, j'exagère peut-être un tout petit peu, mais le site qui vous accueille aujourd'hui est le résultat d'une équipe nouvelle, d'ailleurs plus large que la simple liste de ses employés, et très motivée par l'enjeu.
+&lt;br /&gt;&lt;br /&gt;
+Avant d'être de &quot;l'autre côté du miroir&quot;, nous étions clients de cet icône du Web Français, de cette entreprise dont nous souhaitions qu'elle puisse continuer sur ses valeurs et ses qualités.
+&lt;br /&gt;&lt;br /&gt;
+Alors nous nous sommes endettés, et l'avons racheté, au nez et à la barbe de sociétés motivées par la marque en elle-même, nettement moins par ses valeurs. Logiquement, on s'est alors mis au travail, pour structurer l'entreprise et monter une équipe qui oserait relever ces multiples défis.
+&lt;br /&gt;&lt;br /&gt;
+Grande étape dans cette aventure, vous avez - nous en sommes certains - le plaisir de découvrir notre nouveau site internet, qui n'avait quasiment pas évolué depuis sa création ... en 1999. Certes, cela nous donnait une &quot;patine&quot; particulière, mais il faut bien l'avouer : cela était devenu depuis longtemps une nécessité.
+&lt;br /&gt;&lt;br /&gt;
+Vous le remarquerez dans les jours et les semaines qui viennent, il ne s'agit pas de rester figés dans une sortie unique. De nouveaux produits et services verront le jour sous peu (email et blog par exemple dans les jours qui viennent), des corrections et améliorations continues seront apportées  (revendeurs, grands comptes ...), etc ...
+&lt;br /&gt;&lt;br /&gt;
+Nous n'avons pas la prétention de dire que tout est parfait et ne le sera jamais : par contre votre avis, vos réactions sont nécessaires à ce que notre site, et donc notre service soient les meilleurs possibles.
+&lt;br /&gt;&lt;br /&gt;
+Une adresse courrier spécifique est donc à votre disposition pour que nous puissions lire &lt;b&gt;vos impressions générales et suggestions&lt;/b&gt;, un peu &quot;dans nos petits souliers&quot; quand même : &lt;a href=&quot;mailto:gandiV2@gandi.net&quot; class=&quot;l2&quot;&gt;gandiV2@gandi.net&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;
+Attention : &lt;b&gt;Pour toute demande vous concernant&lt;/b&gt; (compte, lors d'un achat ou d'une autre opération), merci de contacter le support à cette adresse : &lt;a href=&quot;mailto:gandiV2@support.gandi.net&quot; class=&quot;l2&quot;&gt;gandiV2@support.gandi.net&lt;/a&gt;</content>
+    <issued>2006-06-01 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/30"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-06-01 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Gandi V2 : Vos réactions!</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-05-15:%2Fnews%2Fview%2F28</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Initialement prevu du 23 novembre 2005 au 30 juin 2006 inclus, Afilias, le registre en charge du .INFO prolonge la baisse de ses tarifs pour l'achat de tout domaine en .INFO. et l'entend même aux achats pour 2 et 3 ans (à 5€HT/an)
+&lt;br /&gt;&lt;br /&gt;
+Gandi, centre d'enregistrement Accrédité par Afilias, a décidé de participer à cette opération et de répercuter entièrement cette baisse sur son prix de vente. L'enregistrement d'un nom de domaine en .INFO pour 1 an sera donc facturé 1€ HT jusqu'au 31 décembre 2006 inclus.
+&lt;br /&gt;&lt;br /&gt;
+À noter que vous pouvez enregistrer autant de domaines que vous le souhaitez au tarif de 1€ HT pour un an (10€ pour 2 ans, 15€ pour 3 ans) et que les renouvellements ne sont pas concernés par cette opération spéciale.</content>
+    <issued>2006-05-15 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/28"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-05-15 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Vos .INFO à 1€ HT</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-05-14:%2Fnews%2Fview%2F32</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Si vous recevez un rappel de renouvellement de la part de Domain Registry of America ne tenez pas compte de ce courrier.&lt;br /&gt;&lt;br /&gt;
+
+Nous n'avons AUCUN lien avec cette société. Votre domaine ne peut pas être enregistré auprès de leurs services, ce n'est pas un registrar accrédité par l'ICANN.&lt;br /&gt;&lt;br /&gt;
+
+Si vous ne l'avez pas transféré votre domaine est bien chez Gandi, vous pouvez le vérifier dans le Whois. Vérifiez notamment les labels Registrar et expires .&lt;br /&gt;&lt;br /&gt;
+
+Nous envisageons d'agir contre les pratiques de cette société. Si vous souhaitez appuyer cette action n'hésitez pas à nous contacter (lien ci-dessous) pour que votre incident soit également archivé, ou même à nous faire parvenir une copie de la lettre de DROA.&lt;br /&gt;&lt;br /&gt;
+
+Sachez également que vous pouvez poser une sécurité permanente sur votre domaine pour éviter tout transfert frauduleux.&lt;br /&gt;&lt;br /&gt;
+</content>
+    <issued>2006-05-14 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/32"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-05-14 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Domain Registry of America</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-05-13:%2Fnews%2Fview%2F26</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Depuis la semaine dernière l’Eurid et Gandi permettent enfin les opérations de transfert et de changements de propriétaire, plus 1,5M de domaines sont concernés par cette nouvelle.
+&lt;br /&gt;&lt;br /&gt;
+Pour transférer votre nom de domaine en .EU chez Gandi, vous devez vous rendre sur &lt;a href=/domain/transfer&gt;notre interface&lt;a&gt; pour initier votre transfert. EURid, la registry du .eu, va alors envoyer une demande de confirmation au propriétaire. Ce dernier aura alors 14 jours pour confirmer sa demande. Sans validation, le transfert sera refusé.
+&lt;br /&gt;&lt;br /&gt;
+Les changements de propriétaires sont également autorisés depuis cette date. Pour effectuer ce changement sur Gandi, le propriétaire actuel doit se rendre sur son interface d'administration en s'identifiant puis cliquer sur le lien &quot;céder à un tiers&quot;.
+&lt;br /&gt;&lt;br /&gt;
+</content>
+    <issued>2006-05-13 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/26"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-05-13 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html"> Les .eu sont transférables</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-05-13:%2Fnews%2Fview%2F25</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">A partir du 20 juin 2006 à 9h, l'Afnic en charge de la gestion du .FR donnera accès à toute personne majeure disposant d'une adresse postale en France l'enregistrement des noms de domaines directement en .fr.
+Jusqu'ici, seuls les professionnels, les associations ou encore les organismes publics pouvaient s'enregistrer.
+À partir du 20 juin 2006, chacun pourra laisser libre cours à son imagination et déposer le nom de domaine en .fr qui lui ressemble.&lt;br /&gt;&lt;br /&gt;
+
+La démarche à suivre est très simple ! Il n'y aura pas d'autres justificatifs à donner que votre âge, votre date et lieu de naissance (élements identifiants). Les particuliers souhaitant alors enregistrer un nom de domaine en .fr devront alors fournir une adresse valide en France. &lt;br /&gt;&lt;br /&gt;
+N'hésitez plus et vérifiez dès maintenant que votre nom de domaine est disponible en le recherchant sur notre &lt;a href=/whois&gt;whois&lt;/a&gt; par exemple.</content>
+    <issued>2006-05-13 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/25"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-05-13 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">L'AFNIC ouvre le .fr aux particuliers à partir du 20 juin 2006</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-05-13:%2Fnews%2Fview%2F27</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">EURid avait prevenu depuis le debut, &quot;si nous avons près d'un million de demande en période de Sunrise, le processus de validation prendra probablement une année entière&quot;.&lt;br /&gt;
+Comme indiqué sur &lt;a href=http://status.eurid.eu/ target=_blank&gt;sur la page de statistique EURid&lt;/a&gt;, près de 350 000 demandes ont été éffectuée. Nous pouvons donc espérer une réponse dans un délais maximum d'environ 6 mois.
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;Encore 125 000 demandes en attente&lt;/h2&gt;
+Pour la France, près de 17000 demandes au total, 2500 demandes chez Gandi, sont en attente d'une validation par les agents de PriceWaterhouseCoopers, la société mandatée par EURid pour valider les demandes des sociétés, organismes et ayant droits. Les demandes provennant d'organisme public étaient gérées par le gouvernement des états correspondant au demandeur. On a d'ailleur pu noter, une fois n'étant pas coutume (&lt;= je n'ai pas pu m'empêcher), une vélocité impressionnante de la part de l'agent chargé par le gouvernement français de valider les demandes.&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;Et gandi.eu alors ?&lt;/h2&gt;
+Et oui, comme le dit l'adage : &quot;Ce sont toujours les cordonniers...&quot; enfin bref tout ca pour dire qu'en plus, il ne semble pas y avoir d'ordre chronologique dans la validation. Notre demande effectuée en décembre dernier n'a pas, comme une petite centaine d'autre, encore reçu de validation.&lt;br /&gt;&lt;br /&gt;</content>
+    <issued>2006-05-13 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/27"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-05-13 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Mais quand seront validées les demandes en Sunrise ?</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-05-12:%2Fnews%2Fview%2F22</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Leuven, le 2 février 2006. Au cours d'une campagne promotionnelle intensive menée pendant 3 mois auprès des utilisateurs privés pour les inciter à acquérir un nom de domaine .be, DNS Belgique est parvenu à récolter quelque 580.097 nouveaux enregistrements.&lt;br/&gt;
+Ce qui porte à plus d'un million le nombre total de noms de domaine .be - et représente plus qu'un doublement par rapport au nombre d'il y a à peine 3 mois.&lt;br/&gt;&lt;br/&gt;
+C'est le 1er novembre de l'année dernière que DNS Belgique a démarré une campagne visant à promouvoir l'enregistrement des noms de domaine .be. Ces noms étaient proposés gratuitement aux agents prêts à collaborer à l'action.&lt;br&gt;&lt;br/&gt;
+L'offre promotionnelle était soutenue par une campagne publicitaire dont les spots ont été diffusés sur la plupart des grandes chaînes radio nationales, par des bannières en ligne et un site web d'information (www.istnogvrij.be/www.encorelibre.be) où les personnes intéressées pouvaient trouver un maximum de renseignements sur l'usage et l'utilité d'un nom de domaine.&lt;br/&gt;&lt;br/&gt;
+Au début de la campagne, l'on a enregistré des pics de plus de 20.000 enregistrements par jour, alors que, avant la campagne, la moyenne quotidienne ne dépassait pas 500 noms. Les derbiers jours de la campagne ont, eux aussi, été marqués par un regain d'activité, avec quelques 15.000 enregistrements par jour en moyenne. &quot;Ce succès est avant tout le fruit des efforts d'agents très actifs, dont certains se sont vu offrir gratuitement des noms de domaine pendant la durée de l'action&quot;, explique Marc Van Wesemael, directeur général de DNS België. &quot;Ce sont ces agents qui ont assuré la promotion de notre camapagne auprès de chaque utilisateur final individuellement&quot;.&lt;br/&gt;&lt;br/&gt;
+Les chiffres sont là pour le prouver : le particulier a, lui aussi, profité de cette offre.
+&lt;br/&gt;&lt;br/&gt;
+Plus de 57% de tous les noms de domaines ont été enregistrés par des particuliers. En Belgique, le pourcentage d'enregistrements demandés par des particuliers s'élève à 60,5%.&lt;br/&gt;&lt;br/&gt;
+Cet engouement phénoménal révèle sans ambiguïté possible l'existence d'un réel besoin pour ce type de produits parmi les utilisateurs privés. Pour DNS Belgique et ses agents, le défi consiste à présent à apporter à ces nouveaux titulaires de noms de domaine les services qu'ils attendent et à optimiser le nombre de renouvellements à la fin de la période en cours.</content>
+    <issued>2006-05-12 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/22"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-05-12 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">Bilan de l'opération sur les .BE</title>
+  </entry>
+  <entry>
+    <id>tag:www.gandi.net:80,2006-05-12:%2Fnews%2Fview%2F23</id>
+    <author>
+      <name>Gandi</name>
+      <email>news@gandi.net</email>
+    </author>
+    <content mode="escaped"
+             type="text/html">Le 7 juin à 11h00, heure belge, la première série de nom de domaine demandés pendant la période Sunrise et dont toutes les demandes ont été rejetées ou sont expirées, seront à nouveau disponibles.&lt;br &gt;&lt;br &gt;
+
+Initialement Eurid devait publier la liste des noms de domaine rendus disponibles à cette date sur son site web deux semaines à l’avance, c’est-à-dire le 24 mai. En rendant cette liste publique, EURid permettait aux cybersquatteurs de faire leurs emplètes librement. Finalement la date de disponibilité ne sera disponible que sur le &lt;a href=http://www.whois.eu target=_blank&gt;whois de EURid&lt;/a&gt; ce qui limitera les risques.
+&lt;br &gt;&lt;br &gt;
+EURid annonce vouloir donner les mêmes chances d’enregistrer ces noms de domaine à tous, y compris à ceux qui ont tenté sans succès de les obtenir pendant la période dite de &quot;Sunrise&quot;. Cette liste permet également à EURid de montrer de manière  transparente le statut des noms de domaine demandés pendant cette période &quot;trouble&quot;.&lt;br &gt;&lt;br &gt;
+EURid liberera ainsi par vagues succéssives tous les .EU, rejetés ou expirés, les mardi à 11h à partir du 7 juin 2006 (donc le 13,20,27 juin). Les noms encore concernés par une procédure ADR ne seront débloqués qu'à la fin de la période.</content>
+    <issued>2006-05-12 00:00:00</issued>
+    <link href="http://www.gandi.net:80/news/view/23"
+          rel="alternate"
+          type="text/html" />
+    <modified>2006-05-12 00:00:00</modified>
+    <title mode="escaped"
+           type="text/html">.EU martyrisé, .EU rejeté, .EU expiré mais .EU libéré !</title>
+  </entry>
+  <generator url="http://search.cpan.org/dist/XML-Atom-SimpleFeed"
+             version="0.7">XML::Atom::SimpleFeed</generator>
+  <link href="http://www.gandi.net:80"
+        rel="alternate"
+        type="text/html" />
+  <modified>2007-08-04 12:44:39</modified>
+  <tagline mode="escaped"
+           type="text/html">Gandi.net, votre nom de domaine autrement</tagline>
+  <title mode="escaped"
+         type="text/html">Les nouvelles de Gandi</title>
+</feed>
