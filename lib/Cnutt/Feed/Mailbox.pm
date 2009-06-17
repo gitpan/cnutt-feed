@@ -41,11 +41,14 @@ use HTML::FormatText::WithLinks;
 
 =head2 fetch
 
-  Cnutt::Feed::Mailbox->fetch($url, $mb, $dohtml, $delete, $verbose)
+  Cnutt::Feed::Mailbox->fetch($url, $mb, $dohtml, $delete, $verbose,
+  $name)
 
 will fetch the feed given by the url in C<$url> and put the entries in
 the mailbox C<$mb> (See L<Email::LocalDelivery> for the supported
 formats).
+
+If not C<undef> it uses C<$name> for dislaying errors.
 
 If C<$dohtml> is true, an html part will be enclosed in the built
 messages.
@@ -58,7 +61,7 @@ If C<$verbose> is true, informations will be printed on STDOUT.
 
 sub fetch {
     shift;
-    my ($url, $mb, $dohtml, $delete, $verbose) = @_;
+    my ($url, $mb, $dohtml, $delete, $verbose, $name) = @_;
 
     my $count = 0;
 
@@ -81,7 +84,12 @@ sub fetch {
     if (!defined($feed)) {
         my $error = XML::Feed->errstr;
         if (defined($error)) {
-            warn "XML::Feed error: ", $error;
+			if (defined($name)) {
+	            warn "XML::Feed error: $error in $name\n";
+			}
+			else {
+	            warn "XML::Feed error: $error in $url\n";
+			}
         }
         return undef;
     }

@@ -70,7 +70,9 @@ sub fetch_one {
     my $count = Cnutt::Feed::Mailbox->fetch($url, $mb,
                                             $options{html},
                                             $options{delete},
-                                            $options{verbose});
+                                            $options{verbose},
+                                            $name
+        );
     if (defined($count)) {
         print "Found $count new entries in $name\n" if $options{verbose};
         if ($count) {
